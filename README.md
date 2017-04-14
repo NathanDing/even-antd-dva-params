@@ -6,3 +6,5 @@
 
 - 下载后 npm install
 - 运行 npm start
+
+made in china

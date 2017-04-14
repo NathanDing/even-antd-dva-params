@@ -23,7 +23,7 @@ function App(app) {
 }
 
 
-function mapStateToProps (app) {
+function mapStateToProps (app) { // 将navProps添加到APP容器里面
   console.log('mapStateToProps')
   console.log(navProps)
   return {

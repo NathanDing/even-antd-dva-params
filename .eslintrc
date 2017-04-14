@@ -22,7 +22,11 @@
     "no-bitwise": [0],
     "no-cond-assign": [0],
     "import/no-unresolved": [0],
-    "require-yield": [1]
+    "require-yield": [1],
+    "no-unused-vars": [0],
+    "space-before-function-paren": [0],
+    "semi": [0],
+    "object-shorthand": [0]
   },
   "parserOptions": {
     "ecmaFeatures": {

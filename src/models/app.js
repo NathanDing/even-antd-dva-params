@@ -1,7 +1,7 @@
 
 export default {
 
-  namespace: 'navapp',
+  namespace: 'navapp', // navapp将作为key存在app容器里面
 
   state: {
     islogin: false,  // 是否登录
@@ -19,7 +19,7 @@ export default {
   },
 
   subscriptions: {
-    setup({ dispatch, history }) {  // eslint-disable-line
+    setup({ dispatch, history }) {
     },
   },
 
