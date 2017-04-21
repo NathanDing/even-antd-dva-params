@@ -40,3 +40,6 @@ dva 有一个管理 effects 执行的 hook，并基于此封装了 dva-loading �
 
 - 用 dva-cli 生成 component：
   - $ dva g component Users/Users
+  
+- 用 dva-cli 生成 model：
+  - dva g model test
